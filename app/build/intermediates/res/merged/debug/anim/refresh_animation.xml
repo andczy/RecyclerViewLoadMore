@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@mipmap/anim_play4" android:duration="200"></item>
+    <item android:drawable="@mipmap/anim_play5" android:duration="200"></item>
+    <item android:drawable="@mipmap/anim_play6" android:duration="200"></item>
+
+
+</animation-list><!-- From: file:/E:/as_workspace/RecyclerViewLoadMore/app/src/main/res/anim/refresh_animation.xml -->
